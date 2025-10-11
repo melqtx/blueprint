@@ -10,7 +10,7 @@ This is my journal of the design and building process of **a mechanical split ke
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/394).
 
 
-## 10/11/2025 - planned out the design  
+## 10/11/2025 12 AM - planned out the design  
 
 so i planned out what exactly do i want out of this keeb, im kinda confused bw a 5col or 6 col, 6 col comes with its own wins, not having to switch to different layers, hmmm. i should go with 6 col layout. lemme drop the design reference.![img.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--faa7c4a2d2cd0147f3d75a943f252332c5f09240/img.jpg)
 
@@ -19,5 +19,18 @@ or a 5 col??? im really confused tbh.
 so this is just a reference, next update will be regarding the pcb.
 
 
+  
+
+## 10/11/2025 11 PM - 5 col it is then  
+
+yea, five col it is then, reason? more portable and easy config apparently. today i spent around an hour looking for a pcb, and parts, dumbing down it into five major thingis ill need.
+
+pcb - this is the board where everything connects. need one for each half of the split.
+switches - these are the clicky bits under the keys. i'll pick some nice linear ones maybe.
+keycaps - the tops of the keys. want something comfy and low profile.
+case - to hold it all together. could be acrylic or something simple.
+controller - like a pro micro to make it smart and connect the halves with a cable.
+
+hmm, also to make it look more clean, i should go for wireless one, so maybe you can drop a small battery in both of these two. thats it for today![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--57797ece2456857b91f40a67faba46e1a06aba3d/image.png)
   
 
