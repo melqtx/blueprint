@@ -34,3 +34,11 @@ controller - like a pro micro to make it smart and connect the halves with a cab
 hmm, also to make it look more clean, i should go for wireless one, so maybe you can drop a small battery in both of these two. thats it for today![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--57797ece2456857b91f40a67faba46e1a06aba3d/image.png)
   
 
+## 10/14/2025 - another pivot  
+
+after being confused, for quite awhile, a 34 keyboard layout seems perfet for me? you may ask why? its portable, my desk is pretty small and i dont want it cluttered up.
+
+i spent around 2 hours, desigining its pcb, and the final is yet to come, logging progress until here.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--4f66b1e7df90f2616ad70502316003d865127a7f/image.png)
+  
+
