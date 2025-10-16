@@ -42,3 +42,14 @@ i spent around 2 hours, desigining its pcb, and the final is yet to come, loggin
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--4f66b1e7df90f2616ad70502316003d865127a7f/image.png)
   
 
+## 10/16/2025 - routed the pcb, did the schematics  
+
+got the official price frome the jlcpcb website, man they eating a lot on shipping, (chose the slowest shipping option), still its at 40ish something, i can get the 3d parts printed at my sschool, so no issue with that, gotta decide the switches and keycaps, brainstrommed alot on lcak about what kinda battery i should chose.
+
+todo:
+- figure out switchs and keycaps
+- create a 3d model so you can book the slot for printing.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4754055f59a8becb557f2d8927c98047378c27c2/image.png)
+  
+
